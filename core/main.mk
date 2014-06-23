@@ -4,7 +4,7 @@ ifdef ANDROID_BUILD_SHELL
 SHELL := $(ANDROID_BUILD_SHELL)
 else
 # Use bash, not whatever shell somebody has installed as /bin/sh
-# This is repeated in config.mk, since envsetup.sh runs that file 
+# This is repeated in config.mk, since envsetup.sh runs that file
 # directly.
 SHELL := /bin/bash
 endif

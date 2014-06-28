@@ -130,6 +130,7 @@ PRODUCT_LOCALES = \
 	en_US \
 	en_ZA \
 	es_ES \
+	et_EE \
 	es_US \
 	fi_FI \
 	fr_BE \
